@@ -1,0 +1,108 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#E9EDEE
+}
+
+.headersclass{
+    color: rgb(250, 245, 245);
+    text-align: left;
+}
+.logo-class{
+    background-color:#222F3F ;
+    padding: 0.5em;
+}
+.buttons-class{
+    background-color:#364759 ;
+    padding: 0.5em;
+}
+button{
+  background-color:#364759;
+  color: white;
+  font-size: 1em;
+  padding-left: 0.25em;  
+  padding-right:0.25em;
+  border: none;
+  
+}
+button:hover{
+    cursor: pointer;
+}
+.orange-line{
+    background-color:#F56600 ;
+    color: white;
+    margin: 2em;
+    height: 30px;
+    font-weight: bold;
+}
+.orange-line p {
+    text-align: center;
+    vertical-align: center;
+    padding: 0.25em;
+    font-size: 1em;
+}
+.green-line{
+    background-image:url('./bg-image.png');
+    background-size:contain;
+    margin: 2em;
+    height: 150px;
+    text-align: center;
+}
+.green-line h1{
+    padding:0.75em;
+    padding-bottom:0.25em;
+}
+main{
+        margin:2em;
+}
+#first-four-imgs{
+    background-color: beige;
+     text-align: center;
+}
+.content-fourimg{
+     display: inline-block;
+    }
+
+.four-img{
+    margin: 0 0.3em;
+    border-radius: 15%;
+    max-width: 22%;
+    box-shadow:0.2px 0.2px 10px rgb(101, 96, 96);
+}
+.firsth4{
+    text-align: left;
+    padding: 1.3em;
+}
+.firsth4 a{
+    text-decoration: none;
+    color: blue;
+}
+#last-images{
+    margin-top: 2.5em;;
+
+}
+#last-images a{
+    text-decoration: none;
+    color: blue;
+}
+#last-images h4{
+    text-align: center;
+    margin-top: 0;
+}
+#backto-id{
+    background-color: #364759;
+}
+#backto-id a {
+    color: white;
+    margin: 2em;
+    height: 30px;
+    font-weight: bold;
+}
+#backto-id p{
+    text-align: center;
+}
+.endlogo-class{
+    background-color: #222F3F;
+    text-align: center;
+    padding: 2em;;
+}
+    

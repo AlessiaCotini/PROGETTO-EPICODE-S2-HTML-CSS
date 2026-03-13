@@ -1,0 +1,61 @@
+body{
+    display: block;
+}
+div{
+    display: block;
+}
+span{
+    display: inline;
+
+}
+h1{
+    line-height: 1.9em;
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.5em;
+}
+h2{
+    font-size: 1.3em;
+    line-height: 1.5em;
+    text-align: center;
+}
+h3{
+    line-height: 1em;
+    font-weight: 300;
+    text-align: center;
+    font-size: 1.2em;
+}
+h4{
+    font-size: 0.8em;
+    line-height: 1.5em;
+    padding: 0.5em;
+}
+h5{
+    font-size: 1.2em;
+    line-height: 1.5em;
+    text-align: center;
+}
+h6{
+    font-size: 1em;
+    line-height: 1.5em;
+    text-align: center;
+}
+p{
+    font-size: 0.5em;
+    text-align: left;
+    display: block;
+    line-height: 1.2;
+    margin: 0.5em;
+    padding: 0.5em;
+}
+ol {
+	list-style:decimal;
+    line-height: 2em;
+    text-align: left;
+}
+ul{
+    list-style: circle;
+    line-height: 2em;
+    text-align: left;
+}
+
